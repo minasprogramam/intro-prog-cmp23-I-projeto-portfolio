@@ -17,11 +17,7 @@ cores e estilo que você achar melhor.
 ---
 
 <br>
-
----
-
-<br>
-_Vai ser incrível caminharmos juntas! Qualquer dúvida ou sugestão, fala comigo!!!_
+Vai ser incrível caminharmos juntas! Qualquer dúvida ou sugestão, fala comigo!!!_
 Não se esqueçam, somos um coletivo, caminhamos juntas e ninguém fica para trás ok!!!
-<br>
+<br><br>
 Feito com muito 🤎 por Amanda Silva
