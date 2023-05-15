@@ -94,7 +94,6 @@ li {
 }
 
 .topico-principal{
-  font-size: 36px;
   color: #49bfb3;
 } 
 
@@ -121,9 +120,46 @@ li {
   font-weight: 300;
 } 
 
+.section-portfolio{
+  font-size: 36px;
+
+}
+
+.section-titulo-tamanho{
+  font-size: 50px;
+}
+
+.section-titulo-portfolio{
+  color: #2F80ED;
+}
 
 
 
+.titulo-lista-portfolio{
+  color: #ed2fdd;
+}
+
+.footer {
+  background-color: #5A53D8;
+  display: flex;
+  align-items: center;
+  height: 30vh;
+}
+
+.lista-footer{
+  color: #FFF;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 16px;
+  display: table;
+  align-items: center;
+}
+
+.links-footer{
+    color: #FFF;
+    text-decoration: none;
+    margin-left: 30px
+}
 
 
 
