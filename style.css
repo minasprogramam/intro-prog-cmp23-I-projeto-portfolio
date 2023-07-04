@@ -14,14 +14,14 @@ li {
 }
 
 .header-menu{
-   width: 100%;
+  width: 100%;
   display: flex;
   justify-content: flex-end;
   display: flex;
   position: fixed;
   width: 100%;
   padding: 8px;
-  padding-top: 32px;
+  padding-top: 32px; 
   padding-bottom: 32px;
   height:  60px;
   background-color: #938DF8;
@@ -77,13 +77,14 @@ li {
 }
 
 .profissao{
-  color: #c5c0c0;
+  color: #B28282;
   height: 60px;
 } 
 
 .texto-sobre{
   font-size: 20px;
   line-height: 32px;
+  color: #828282;
 } 
 
 .article-lista{
@@ -95,6 +96,7 @@ li {
 
 .topico-principal{
   color: #49bfb3;
+  font-size: 50px;
 } 
 
 .lista-item{
@@ -102,42 +104,32 @@ li {
 } 
 
 .lista-titulo{
-  margin-bottom: 5px;
+  margin-bottom: 15px;
   font-size: 22px;
   color: #B28282;
   font-weight: 700;
 }
 
+.lista-subtitulo{
+  margin-bottom: 10px;
+  color: #B28282;
+}
+
 .lista-local{
+  margin-bottom: 10px;
+  margin-top: 5px;
   font-size: 18px;
   color: #2F80ED;
 }
- .lista-descricao {
+
+.lista-descricao {
   font-size: 18px;
-  margin-top: 5px;
-  line-height: 20px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  line-height: 32px;
   color: #828282;
   font-weight: 300;
 } 
-
-.section-portfolio{
-  font-size: 36px;
-
-}
-
-.section-titulo-tamanho{
-  font-size: 50px;
-}
-
-.section-titulo-portfolio{
-  color: #2F80ED;
-}
-
-
-
-.titulo-lista-portfolio{
-  color: #ed2fdd;
-}
 
 .footer {
   background-color: #5A53D8;
@@ -161,8 +153,11 @@ li {
     margin-left: 30px
 }
 
-
-
+.projetosPessoais{
+ background-color: #EAEAEA;
+ padding-top: 100px;
+ padding-bottom: 100px;
+} 
 
 /* {
 } */
